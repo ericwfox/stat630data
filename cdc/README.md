@@ -9,3 +9,12 @@ Variable | Description
 `genhlth` | a categorical vector indicating general health, with categories excellent, very good, good, fair, and poor.
 `exerany` | a categorical vector, 1 if the respondent exercised in the past month and 0 otherwise
 `hlthplan` | a categorical vector, 1 if the respondent has some form of health coverage and 0 otherwise
+`smoke100` | a categorical vector, 1 if the respondent has smoked at least 100 cigarettes in their entire life and 0 otherwise
+`height` | a numerical vector, respondent's height in inches
+`weight` | a numerical vector, respondent's weight in pounds
+`wtdesire` | a numerical vector, respondent's desired weight in pounds
+`age` | a numerical vector, respondent's age in years
+`gender` | a numerical vector, respondent's gender
+
+
+Source: [https://www.openintro.org/stat/data/]
